@@ -106,14 +106,14 @@
 
 ## 2.算法 :pencil2:（重点）
 
-> **[从零到一构建算法知识地图](https://github.com/lckjcnWq/Smart-Android-Algorithm)（进行中~）**
+> **[算法基础](https://github.com/lckjcnWq/Smart-Android-Algorithm)（进行中~）**
 
 
 ## 设计模式 :trophy:
 
 > [Java设计模式](https://github.com/lckjcnWq/Smart-Android-DesignPatterns)
 
-- **《Android进阶之光之设计模式》**(已完成)
+- **《Android进阶之光之设计模式》(已完成)**
 - **《Head First 设计模式》（已完成）
 
 
