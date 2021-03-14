@@ -102,6 +102,8 @@
 
 
 
+
+
 ## 2.算法 :pencil2:（重点）
 
 > **[从零到一构建算法知识地图](https://github.com/lckjcnWq/Smart-Android-Algorithm)（进行中~）**
@@ -113,6 +115,8 @@
 
 - **《Android进阶之光之设计模式》**(已完成)
 - **《Head First 设计模式》（已完成）
+
+
 
 
 ## 3. Java :coffee:（重点）
@@ -143,12 +147,16 @@
 
 
 
+
+
 ## 4. Kotlin :fire:
 
 > Kotlin之旅
 
 -  极客时间之《快速上手Kotlin开发》
 - 《Kotlin 实战》
+
+
 
 
 ## 5. Android :zap:
@@ -164,6 +172,9 @@
 - 《Android内核剖析》 
 - 《深入理解Android--卷1 2 3》
 - 《深入理解Android内核设计思想》
+
+
+
 
 ## 6.细分领域专家 :rocket:
 
@@ -184,6 +195,10 @@
 - **[OpenGL基础](https://github.com/lckjcnWq/Smart-Android-OpenGL)  (已完成)**
 
 - 协议 (https://github.com/ty6815/AvStackDocs)
+
+
+
+
 
 #### 为什么要创建这个仓库？
 
