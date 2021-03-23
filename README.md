@@ -83,7 +83,7 @@
 
 > [SQL]
 
-- **《深入浅出SQL》(已完成)**
+- <s>**《深入浅出SQL》（已完成）**</s>
 
 > 数据库原理
 
@@ -113,8 +113,8 @@
 
 > [Java设计模式](https://github.com/lckjcnWq/Smart-Android-DesignPatterns)
 
-- **《Android进阶之光之设计模式》(已完成)**
-- **《Head First 设计模式》（已完成）
+- <s>**《Android进阶之光之设计模式》（已完成）**</s>
+- <s>**《Head First 设计模式》（已完成）**</s>
 
 
 
@@ -123,19 +123,19 @@
 
 > Java基础 
 
-- **《Java核心技术 卷I》(已完成)**
-- **《Java编程思想》(已完成)**
+- <s>**《Java核心技术 卷I》(已完成)）**</s>
+- <s>**《Java编程思想》(已完成)**</s>
 
 > Java并发
 
 - **极客时间之《Java并发编程实战》**
-- **《Java并发编程实战》(已完成)**
+- <s>**《Java并发编程实战》(已完成)**</s>
 
 
 > JVM
 
 - **极客时间之《深入拆解Java虚拟机》**
-- **《深入理解Java虚拟机》(已完成)**
+- <s>**《深入理解Java虚拟机》(已完成)**</s>
 
 - 《揭秘Java虚拟机》
 
@@ -153,7 +153,7 @@
 
 > Kotlin之旅
 
--  极客时间之《快速上手Kotlin开发》
+-  <s>**极客时间之《快速上手Kotlin开发》(已完成)**</s>
 - 《Kotlin 实战》
 
 
@@ -163,12 +163,12 @@
 
 > [Android基础]()（已完成）
 
-- **《Android第一行代码》 （已完成）**
+- <s>**《Android第一行代码》 （已完成）**</s>
 
 > [Android进阶]()（进行中.....）
 
-- **《Android进阶之光》 （已完成）**
-- **《Android开发艺术探索》 （已完成）**
+-  <s>**《Android进阶之光》 （已完成））**</s>
+- <s>**《Android开发艺术探索》 （已完成））**</s>
 - 《Android内核剖析》 
 - 《深入理解Android--卷1 2 3》
 - 《深入理解Android内核设计思想》
@@ -191,8 +191,8 @@
 
 **3、音视频方向**
 
-- **[FFMPEG基础](https://github.com/lckjcnWq/Smart-Android-FFmpeg)  (已完成)**
-- **[OpenGL基础](https://github.com/lckjcnWq/Smart-Android-OpenGL)  (已完成)**
+-  <s>**[FFMPEG基础](https://github.com/lckjcnWq/Smart-Android-FFmpeg)  (已完成)**</s>
+-  <s>**[OpenGL基础](https://github.com/lckjcnWq/Smart-Android-OpenGL)  (已完成)**</s>
 
 - 协议 (https://github.com/ty6815/AvStackDocs)
 
