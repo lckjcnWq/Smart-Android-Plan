@@ -106,7 +106,7 @@
 
 ## 2.算法 :pencil2:（重点）
 
-> **[算法基础](https://github.com/lckjcnWq/Smart-Android-Algorithm)（进行中~）**
+> <s>**[算法基础](https://github.com/lckjcnWq/Smart-Android-Algorithm)（进行中~）**</s>
 
 
 ## 设计模式 :trophy:
