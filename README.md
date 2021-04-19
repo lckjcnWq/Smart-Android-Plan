@@ -204,7 +204,7 @@
 
 > 此想法来源于JsonChao的[https://github.com/JsonChao/Awesome-Android-Notebook)。
 
-笔者是一名普通的Android开发者，毕业于2014年，至今已工作6年，看过JsonChao的计划Plan，打算创建此仓库—Smart-Android-Plan来督促自己进行知识体系的建立，以便快速成长为资深Android技术开发从业人员，如果大家觉得它对其有帮助的话，可以点个star收藏一下~
+笔者是一名普通的Android开发者，看过JsonChao的计划Plan，打算创建此仓库—Smart-Android-Plan来督促自己进行知识体系的建立，以便快速成长为资深Android技术开发从业人员，如果大家觉得它对其有帮助的话，可以点个star收藏一下~
 
 
 
