@@ -26,12 +26,12 @@
 > [Linux基础]()
 
 - 《Linux私房菜 基础学习篇》(第三版)
-- 《深入理解计算机系统》(原书第三版)
+- 《深入理解计算机1系统》(原书第三版)
 
 
 ### 1.3 网络（重点）
 
-> [网络协议]()
+> <s>[网络协议]</s>
 
 #### 综合实战
 
@@ -46,8 +46,8 @@
 
 #### 网络进阶
 
-- HTTP 1.1 —— **《HTTP 权威指南》** （已完成）
-- HTTP 2.0 —— [http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)
+- <s>HTTP 1.1 —— **《HTTP 权威指南》** （已完成）</s>
+- <s>HTTP 2.0 —— [http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)</s>
 - TCP/IP —— 《TCP/IP 详解（卷一：协议）》
 
 
