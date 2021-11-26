@@ -149,10 +149,8 @@
 ## 6.细分领域专家 :rocket:
 
 **1、性能优化方向（强烈推荐）（进行中~）**
-
-**[深入探索Android性能优化系列](https://github.com/lckjcnWq/Smart-Android-Performance)**
-
-- 极客时间 (https://time.geekbang.org/column/article/70602)
+-  <s>**[深入探索Android性能优化系列](https://github.com/lckjcnWq/Smart-Android-Performance)* (已完成)**</s>
+-  <s>**极客时间 (https://time.geekbang.org/column/article/70602)* (已完成)**</s>
 
 **2、基础架构方向（强烈推荐）（进行中~）**
 
